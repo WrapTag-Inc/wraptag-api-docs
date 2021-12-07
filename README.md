@@ -46,7 +46,7 @@ Example: [`/users?limit=5&page=1&key=rose`](https://api.wraptag.io/users?limit=5
     }
   ],
   "page": 1,
-  "limit": 1,
+  "limit": 5,
   "total": 1,
   "pages": 1
 }
