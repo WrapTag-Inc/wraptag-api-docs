@@ -1,4 +1,4 @@
-# Public APIs
+# Public API Documentation
 [General Info](#General_Info)  
 [Get List User](#Get_List_User)  
 [Get User Info](#Get_User_Info)  
