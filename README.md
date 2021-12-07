@@ -165,20 +165,66 @@ Example: [`/items/0xcf98266882dba141c1ad748a71634e65e308e803/11`](https://api.wr
     "QmYKBduLBEamsKegucp8R6rgwC9EobhwQp8S4bBwLuk6Px?filename=E07B2828-FBF3-4DD8-834B-3A9396D29D15.png"
   ],
   "attributes": [
-    {"trait_type":"Category","value":"iphone 12 promax"},
-    {"trait_type":"Product name","value":"iphone"},
-    {"trait_type":"Color","value":"xanh"},
-    {"trait_type":"Size","value":"lớn"},
-    {"trait_type":"Buyer","value":"loan"},
-    {"trait_type":"Purchase date","value":"2021-12-10"},
-    {"trait_type":"Price","value":"1000$"},{"trait_type":"Purchase place","value":"viet nam"},
-    {"trait_type":"Manufacturer","value":"mỹ"},
-    {"trait_type":"Production Date","value":"2021-12-25"},
-    {"trait_type":"Serial Number","value":"146789"},
-    {"trait_type":"Manufacturing Location","value":"mỹ"},
-    {"trait_type":"Tag creator","value":"0x149954e14141e18524b3b30333c3c394d831719c"},
-    {"trait_type":"WrapTag ID","value":"04993B09700000"},
-    {"trait_type":"Memo","value":"Lorem Ipsum is simply dummy text of the printing and typesetting industry..."}
+    {
+      "trait_type": "Category",
+      "value": "Shoes"
+    },
+    {
+      "trait_type": "Product name",
+      "value": "Nike Air force"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Size",
+      "value": "39"
+    },
+    {
+      "trait_type": "Buyer",
+      "value": "Kita"
+    },
+    {
+      "trait_type": "Purchase date",
+      "value": "21/11/2020"
+    },
+    {
+      "trait_type": "Price",
+      "value": "2000 USD"
+    },
+    {
+      "trait_type": "Purchase place",
+      "value": "NewYork"
+    },
+    {
+      "trait_type": "Manufacturer",
+      "value": "Nike"
+    },
+    {
+      "trait_type": "Producttion Date",
+      "value": "2019"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "237998249024740"
+    },
+    {
+      "trait_type": "Manufacturing Location",
+      "value": "China"
+    },
+    {
+      "trait_type": "Tag creator",
+      "value": "0xc9dc18589352d0f4a8313468d8bafe95557f3d18"
+    },
+    {
+      "trait_type": "WrapTag ID",
+      "value": "53995A0D100001"
+    },
+    {
+      "trait_type": "Memo",
+      "value": "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to make you shine."
+    }
   ],
   "dataHash":"Qmf2Ayhyf6Fa9Fr7Ca5C5hATNNr4PCUgQNWo1TLztBF7gK?filename=NFT-Details.json",
   "hash":"0x440dbb9c5d7c9075ec3b0e8075db984665f013cef49df5769d282dabc08f4c47",
@@ -198,7 +244,7 @@ Example: [`/items/0xcf98266882dba141c1ad748a71634e65e308e803/11`](https://api.wr
   },
   "histories":[
     {
-      "image":"QmSpLq4ieGdrY41f2Fhabi4aKfs7zzJkMJqDUcuM34BvsN?filename=Hinh-nen-dien-thoai-cu-te-2.jpeg",
+      "image":"QmSpLq4ieGdrY41f2Fhabi4aKfs7zzJkMJqDUcuM34BvsN",
       "username":"0xdf12...ab7d",
       "address":"0xdf12af9598cf39b7ab486551b94b88f31282ab7d"
     },
