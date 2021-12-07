@@ -141,132 +141,105 @@ Get Item Info
 
 **Code** : `200 OK`
 
-Example: [`/items/0xcf98266882dba141c1ad748a71634e65e308e803/11`](https://api.wraptag.io/items/0xcf98266882dba141c1ad748a71634e65e308e803/11)
+Example: [`/items/0xcf98266882dba141c1ad748a71634e65e308e803/45`](https://api.wraptag.io/items/0xcf98266882dba141c1ad748a71634e65e308e803/45)
 
 **Data return examples**
 
 ```json
 {
-  "address":"0xcf98266882dba141c1ad748a71634e65e308e803",
-  "id":"11",
-  "owner":"0xdf12af9598cf39b7ab486551b94b88f31282ab7d",
-  "trueOwner":"0xdf12af9598cf39b7ab486551b94b88f31282ab7d",
+  "address": "0xcf98266882dba141c1ad748a71634e65e308e803",
+  "id": "45",
+  "owner": "0xfe0feee01583ebd1be2d1572ae84879fa11e1b24",
+  "trueOwner": "0xfe0feee01583ebd1be2d1572ae84879fa11e1b24",
   "album": [
-    "QmcuvQKQVTMWFwce3tjxGMCLRHfYVf8ehuEQ1gnkcKsF2x?filename=138C619B-0A1A-48E7-8C84-33DE764179DB.jpeg",
-    "QmNyi87jNqp12sBuvoxtsWriyqbABc5yAmTJExzdgk4Chu?filename=93954C2F-EC87-4CCB-BE94-91E0F95987B4.jpeg",
-    "QmeRuWSaswk9eFrtyCNwqXzgtedodwpB12T5PfZCcqGGvR?filename=D0DB7766-A9AB-4B4C-9494-C392A6197FA5.jpeg",
-    "QmUoRnpw9c4ENWVzm535EoY4uVNmuTEhZcVHg6WzqCWRRr?filename=20DCABD9-FC98-4192-AAD5-DF463EA4F1B6.jpeg",
-    "Qmegbuoy8c4qXRrR9wU2dMiJsjJ8QESDG9oma69zyxKUs5?filename=62EA9856-BF12-4286-8EDF-DDA7BC1DA65F.png",
-    "QmUyYDK4QspDH3GJxcmfMvNV1QTZ35xqUyL3rfjSnJLzhd?filename=1153503B-A2F9-493E-9525-4F792DB8C4AD.webp",
-    "QmY4RDzWy183HW5BcPSeL6qxSZxcQikUSqq5TB9ATdX1jr?filename=0FB85B9E-D713-4060-8646-0F97210372B8.png",
-    "QmY6VgkzVsq2ByoJZmoLQp2aHw9mLW62nS3bx1gdCc9opR?filename=7C9C4081-5EF0-4FC2-997A-9B541A1D8324.png",
-    "QmWLF4dvLZ3abh2jLV6wyuuofruxz8UxpkBFJ5Q1utsfo9?filename=611DBFA9-A9C0-49E3-8066-2E85ACD1571E.png",
-    "QmQVjusgDCzVnDAaGvPHeNM9HunYvic7vMkrTGecquN4Ro?filename=662E29F0-6FAD-40F7-BE52-806D765F23A5.png",
-    "QmYKBduLBEamsKegucp8R6rgwC9EobhwQp8S4bBwLuk6Px?filename=E07B2828-FBF3-4DD8-834B-3A9396D29D15.png"
+    "QmR34dfMU9FK28KJbEpqgyyziHnzxJPGstULL1AUKtPpf4",
+    "QmZddhfwDvS2mkiCC4wVek1ECV4TCHXTcUpkz2xUfRYrQe",
+    "QmPCnFHtAYC9sY7QKGsVH9vcC3WCpZUcWZ6AmjHU6bvn7J",
+    "QmeSodX6s5NhtTzEuYgmuiyGE2QiivVBnk2YxutddwPqTV"
   ],
   "attributes": [
     {
       "trait_type": "Category",
-      "value": "Shoes"
+      "value": "Men's Shoes"
     },
     {
       "trait_type": "Product name",
-      "value": "Nike Air force"
+      "value": "Adidas"
     },
     {
       "trait_type": "Color",
-      "value": "White"
+      "value": "FTWR WHITE/CORE BLACK/SOLAR YELLOW,NON-DYED/CORE BLACK/NIGHT FLASH,Carbon / Carbon / Solar Red,Cloud White / Core Black / Solar Red,Violet Tone / Violet Tone / Purple Tint"
     },
     {
       "trait_type": "Size",
-      "value": "39"
+      "value": "6UK"
     },
     {
       "trait_type": "Buyer",
-      "value": "Kita"
+      "value": "YURIKO"
     },
     {
       "trait_type": "Purchase date",
-      "value": "21/11/2020"
+      "value": "07/12/2021"
     },
     {
       "trait_type": "Price",
-      "value": "2000 USD"
+      "value": "$217.21"
     },
     {
       "trait_type": "Purchase place",
-      "value": "NewYork"
+      "value": "Supersports Vietnam"
     },
     {
       "trait_type": "Manufacturer",
-      "value": "Nike"
+      "value": "Adidas"
     },
     {
       "trait_type": "Producttion Date",
-      "value": "2019"
+      "value": ""
     },
     {
       "trait_type": "Serial Number",
-      "value": "237998249024740"
+      "value": "FY0377,GZ9212,FY0838,FY3952,S23869"
     },
     {
       "trait_type": "Manufacturing Location",
-      "value": "China"
+      "value": ""
     },
     {
       "trait_type": "Tag creator",
-      "value": "0xc9dc18589352d0f4a8313468d8bafe95557f3d18"
+      "value": "0xFE0FEEe01583eBd1bE2D1572ae84879Fa11e1b24"
     },
     {
       "trait_type": "WrapTag ID",
-      "value": "53995A0D100001"
+      "value": "53995A0D100043"
     },
     {
       "trait_type": "Memo",
-      "value": "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to make you shine."
+      "value": "ULTRABOOST 21 SHOES.ENERGY WAS JUST ENERGY UNTIL ENERGY MET ULTRABOOST 21.Prototype after prototype. Innovation after innovation. Testing after testing. Meet us in the hot pursuit of the pinnacle harmonization of weight, cushioning, and responsiveness. Ultraboost 21. Say hello to incredible energy return."
     }
   ],
-  "dataHash":"Qmf2Ayhyf6Fa9Fr7Ca5C5hATNNr4PCUgQNWo1TLztBF7gK?filename=NFT-Details.json",
-  "hash":"0x440dbb9c5d7c9075ec3b0e8075db984665f013cef49df5769d282dabc08f4c47",
-  "name":"iphone",
-  "nftimage":"QmNyi87jNqp12sBuvoxtsWriyqbABc5yAmTJExzdgk4Chu?filename=46232614-A243-48CE-91AA-A1FFF0784D7B.jpeg",
-  "pdf":"QmaNxbQNrJdLzzd8CKRutBjMZ6GXRjvuPepLuNSsfdeJRJ?filename=sample.pdf",
-  "status":"active",
-  "tagId":"04993B09700000",
-  "timestamp":1638327305020,
-  "totalLike":2,
-  "uniqueKey":"0xcf98266882dba141c1ad748a71634e65e308e803_11",
-  "video":"QmVFmzAznqKM4KuWLe3jKPqWBAS7Y2FKq8j4EgWZYFeoCw?filename=trim.683658AA-D5DD-43FD-9569-7EFB8771ECA8.MOV",
+  "dataHash": "QmWJQqj1YbQRGD9tCCxhLRbR6uXLU8EPdjXMcHg5gHChAM",
+  "hash": "0xd7aaef3b9fbe3b674d6335ca0d92403f321c362fdb11289872fa301621367d42",
+  "name": "Adidas Ultraboost 21",
+  "nftimage": "QmcAeri3QZyf6PzzY8P4G83U6o6J3usjpuGh3ZatSaBu7g",
+  "pdf": "QmcjXkmEkfbiYrA4Yd4xeXAC4szGRqpRzoPLqX6gWU1NKD",
+  "status": "active",
+  "tagId": "53995A0D100043",
+  "timestamp": 1638848703162,
+  "totalLike": 0,
+  "uniqueKey": "0xcf98266882dba141c1ad748a71634e65e308e803_45",
+  "video": "QmdoKyQt6k7kHNY4Y6D1R3ToyG7DVKjG3ttxLCDE1ZtHxR",
   "creator": {
-    "image":"QmWg9HBV5mSQibgk3qMpBLhR7t4nHZ8n1YAaDXpn5KUtZH?filename=20211014_112801.jpg",
-    "username":"我的4标签",
-    "address":"0x149954e14141e18524b3b30333c3c394d831719c"
+    "image": "Qmc1zBP63Uudcjx54djwwvxuvrDac1a8P6pb8Pjsj6aJ2R?filename=z2996200694794_e110cc120bae41e3d928e9ca9bd369b7.jpg",
+    "username": "YURIKO",
+    "address": "0xfe0feee01583ebd1be2d1572ae84879fa11e1b24"
   },
-  "histories":[
+  "histories": [
     {
-      "image":"QmSpLq4ieGdrY41f2Fhabi4aKfs7zzJkMJqDUcuM34BvsN",
-      "username":"0xdf12...ab7d",
-      "address":"0xdf12af9598cf39b7ab486551b94b88f31282ab7d"
-    },
-    {
-      "image":"QmWg9HBV5mSQibgk3qMpBLhR7t4nHZ8n1YAaDXpn5KUtZH?filename=20211014_112801.jpg",
-      "username":"我的4标签",
-      "address":"0x149954e14141e18524b3b30333c3c394d831719c"
-    },
-    {
-      "image":"QmWg9HBV5mSQibgk3qMpBLhR7t4nHZ8n1YAaDXpn5KUtZH?filename=20211014_112801.jpg",
-      "username":"我的4标签",
-      "address":"0x149954e14141e18524b3b30333c3c394d831719c"
-    },
-    {
-      "image":"QmWg9HBV5mSQibgk3qMpBLhR7t4nHZ8n1YAaDXpn5KUtZH?filename=20211014_112801.jpg",
-      "username":"我的4标签",
-      "address":"0x149954e14141e18524b3b30333c3c394d831719c"
-    },
-    { 
-      "image":"QmWg9HBV5mSQibgk3qMpBLhR7t4nHZ8n1YAaDXpn5KUtZH?filename=20211014_112801.jpg",
-      "username":"我的4标签",
-      "address":"0x149954e14141e18524b3b30333c3c394d831719c"
+      "image": "Qmc1zBP63Uudcjx54djwwvxuvrDac1a8P6pb8Pjsj6aJ2R?filename=z2996200694794_e110cc120bae41e3d928e9ca9bd369b7.jpg",
+      "username": "YURIKO",
+      "address": "0xfe0feee01583ebd1be2d1572ae84879fa11e1b24"
     }
   ]
 }
